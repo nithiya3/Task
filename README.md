@@ -1,4 +1,5 @@
 Interactive GIS Map Application
+
 Overview:
 The Interactive GIS Map Application is a web-based project designed to visualize geographic data. It uses the Django framework for backend operations and Leaflet.js to render an interactive map on the frontend. Users can visualize data points on the map, with markers dynamically created from JSON data passed from Django.
 
